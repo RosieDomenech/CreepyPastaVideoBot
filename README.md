@@ -1,7 +1,7 @@
 # 🕯️ CreepyPasta Video Maker Bot
 
 Automatically turns horror stories from [Creepypasta.com](https://www.creepypasta.com)
-into narrated short-form videos — ready to upload to TikTok, YouTube Shorts, or Instagram Reels.
+into narrated short-form videos ready to upload to TikTok, YouTube Shorts, or Instagram Reels.
 
 No video editing. No manual writing. Just `python main.py`.
 
