@@ -1,0 +1,11 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+gtts>=2.5.0
+moviepy>=1.0.3
+tomli>=2.0.1        # Only needed on Python < 3.11
+Pillow>=10.0.0      # Required by moviepy for text rendering
+
+# YouTube upload (optional — only needed if youtube.enabled = true)
+google-api-python-client>=2.100.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.1.1
