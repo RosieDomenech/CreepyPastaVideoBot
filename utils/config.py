@@ -61,6 +61,15 @@ bg_color = [10, 5, 15]
 text_color = [220, 210, 200]
 title_color = [180, 30, 30]
 
+# ── Background Visuals ────────────────────────────────────────────────────
+[background]
+# Generate AI horror image per story via Pollinations.ai (free, no API key)
+use_ai_images = true
+
+# Use random video from assets/backgrounds/ folder
+# Download free dark videos from pexels.com and drop them in assets/backgrounds/
+use_background_videos = true
+
 # ── YouTube Upload (optional) ─────────────────────────────────────────────
 [youtube]
 # Set to true to enable automatic YouTube upload after video creation
